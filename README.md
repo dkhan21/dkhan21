@@ -3,8 +3,8 @@
 ## About Me 🧑‍💻
 I'm a 22 year old programmer thats on a mission to explore and master the ever-evolving world of technology. I'm always eager to take on new challenges and expand my skill set.
 
-## Skills ⚙️
-- **Languages**: `Java`, `Python`, `Linux`, `C++`, `SQL`, `Bash`, `C`
+## Skills 🚀
+- **Languages**: `Java`, `Python`, `Linux`, `C++`, `Bash`, `C`
 - **Front-End**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Liquid`
 - **Back-End**: `SQL`, `MongoDB`, `SQLlite`, `GraphQL`
 - **Frameworks**: `Redwood`, `React.js`, `Apache Hadoop`

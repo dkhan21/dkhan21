@@ -4,12 +4,12 @@
 I'm a 22 year old programmer thats on a mission to explore and master the ever-evolving world of technology. I'm always eager to take on new challenges and expand my skill set.
 
 ## Skills ⚙️
-
-- **Front-End**: `C++`, `Java`, `Python`, `Linux`, `SQL`, `Bash`, `C`, `PHP`, `Liquid`, `HTML`, `CSS`, `JavaScript`
+- **Languages**: `Java`, `Python`, `Linux`, `C++`, `SQL`, `Bash`, `C`
+- **Front-End**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Liquid`
 - **Back-End**: `SQL`, `MongoDB`, `SQLlite`, `GraphQL`
 - **Frameworks**: `Redwood`, `React.js`, `Apache Hadoop`
 - **Testing**: `Jest`, `Postman`
-- **Tools & Technologies**: `Git`, `Oracle`, `Jira`, `Liquid`, `IntelliJ`, `VSCode`, `Debugging`, `Testing`, `Storybook`
+- **Tools & Technologies**: `Git`, `Oracle`, `Jira`, `IntelliJ`, `VSCode`, `Debugging`, `Testing`, `Storybook`
 
 ## Personal Portfolio Website 😃
 - Designed and built a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.

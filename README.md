@@ -6,7 +6,7 @@ I'm a 22 year old programmer thats on a mission to explore and master the ever-e
 ## Skills 🚀
 - **Languages**: `Java`, `Python`, `Linux`, `C++`, `Bash`, `C`
 - **Front-End**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Liquid`
-- **Back-End**: `SQL`, `MongoDB`, `SQLlite`, `GraphQL`
+- **Back-End**: `SQL`, `MongoDB`, `SQLlite`, `GraphQL`, `PostgreSQL`
 - **Frameworks**: `Redwood`, `React.js`, `Apache Hadoop`
 - **Testing**: `Jest`, `Postman`
 - **Tools & Technologies**: `Git`, `Oracle`, `Jira`, `IntelliJ`, `VSCode`, `Debugging`, `Testing`, `Storybook`

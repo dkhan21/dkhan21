@@ -12,8 +12,7 @@ I'm a 22 year old programmer thats on a mission to explore and master the ever-e
 - **Tools & Technologies**: `Git`, `Oracle`, `Jira`, `IntelliJ`, `VSCode`, `Debugging`, `Testing`, `Storybook`
 
 ## Personal Portfolio Website 😃
-- Designed and built a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
-- SOON!!
+[Portfolio Website](https://dkhan21.github.io/) 
 
 ## Fun Facts About Me! ⭐
   - Peaky Blinders is my favorite show
